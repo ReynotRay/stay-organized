@@ -105,4 +105,4 @@ var todoList = new TodoList();
 todoList.onKeydown();
 todoList.deleteItem();
 todoList.login();
-todoList.getItems(); // you need to load this when user is logged in and not before
+todoList.getItems(); 
